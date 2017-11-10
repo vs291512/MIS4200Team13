@@ -1,0 +1,833 @@
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\ApplicationInsights.config
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe.config
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\csc.rsp
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe.config
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\csi.rsp
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.AppContext.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Console.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Compression.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Claims.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Threading.Thread.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.ValueTuple.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe.config
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\vbc.rsp
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll.config
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\CentricTeam13.pdb
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\EntityFramework.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Owin.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.Razor.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\WebGrease.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.Razor.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.pdb
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\EntityFramework.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.xml
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csprojResolveAssemblyReference.cache
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csproj.CoreCompileInputs.cache
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.dll
+C:\Users\vs291512\source\repos\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.pdb
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\ApplicationInsights.config
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe.config
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.rsp
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe.config
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.rsp
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.AppContext.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Console.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Compression.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Claims.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Threading.Thread.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.ValueTuple.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe.config
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.rsp
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll.config
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.pdb
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Owin.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\WebGrease.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.pdb
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.xml
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csprojResolveAssemblyReference.cache
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csproj.CoreCompileInputs.cache
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.dll
+C:\Users\rh709013\Desktop\CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.pdb
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\ApplicationInsights.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.rsp
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.rsp
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.AppContext.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Console.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Compression.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Claims.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Threading.Thread.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.ValueTuple.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.rsp
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.pdb
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Owin.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\WebGrease.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.pdb
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csprojResolveAssemblyReference.cache
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csproj.CoreCompileInputs.cache
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.pdb
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\ApplicationInsights.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.rsp
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.rsp
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.AppContext.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Console.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Compression.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Claims.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Threading.Thread.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.ValueTuple.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.rsp
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll.config
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.pdb
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Owin.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\WebGrease.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.pdb
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.xml
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csprojResolveAssemblyReference.cache
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csproj.CoreCompileInputs.cache
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.dll
+C:\Users\rh709013\Desktop\Ryan Edited_CentricTeam13_103017\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.pdb
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\ApplicationInsights.config
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe.config
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.rsp
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe.config
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.rsp
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.AppContext.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Console.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Compression.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Pipes.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Claims.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Threading.Thread.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.ValueTuple.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe.config
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.rsp
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll.config
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.pdb
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Owin.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\WebGrease.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.pdb
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.xml
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csprojResolveAssemblyReference.cache
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csproj.CoreCompileInputs.cache
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.dll
+C:\Users\xw455313\Downloads\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.pdb
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\ApplicationInsights.config
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe.config
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csc.rsp
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe.config
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\csi.rsp
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.AppContext.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Console.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Compression.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Claims.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.ValueTuple.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe.config
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\vbc.rsp
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll.config
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\CentricTeam13.pdb
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Owin.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\WebGrease.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.Razor.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.pdb
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.xml
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csprojResolveAssemblyReference.cache
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csproj.CoreCompileInputs.cache
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.dll
+C:\Users\ch299112\Desktop\Ryan Edited_CentricTeam13_11_1\Ryan Edited_CentricTeam13\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.pdb
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\ApplicationInsights.config
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\csc.exe.config
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\csc.rsp
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\csi.exe.config
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\csi.rsp
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.AppContext.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Console.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Compression.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Claims.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.ValueTuple.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\vbc.exe.config
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\vbc.rsp
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll.config
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\CentricTeam13.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\CentricTeam13.pdb
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\EntityFramework.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Owin.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.Razor.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\WebGrease.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.Helpers.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.Mvc.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.Optimization.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.Razor.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\System.Web.WebPages.Razor.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Antlr3.Runtime.pdb
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Newtonsoft.Json.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\EntityFramework.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\EntityFramework.SqlServer.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\bin\Microsoft.AI.Web.xml
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csprojResolveAssemblyReference.cache
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.csproj.CoreCompileInputs.cache
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.dll
+C:\Users\ch299112\Desktop\CentricTeam13\CentricTeam13\obj\Debug\CentricTeam13.pdb
